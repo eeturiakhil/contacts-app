@@ -1,0 +1,6 @@
+{
+    "javascript.suggest.includeAutomaticOptionalChainCompletions": false,
+    "js/ts.implicitProjectConfig.strictFunctionTypes": false,
+    "typescript.suggest.includeAutomaticOptionalChainCompletions": false,
+    "angular.enable-strict-mode-prompt": false
+}
