@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "b88e0531-76fc-4739-9400-ea69b5bb40fe",
+      "name": "Akhil Kumar",
+      "email": "akhil@gmail.com"
+    },
+    {
+      "id": "a946c724-5d51-43cc-b369-c0a3ed1b21de",
+      "name": "Nikhil Kumar",
+      "email": "nikhil@gmail.com"
+    },
+    {
+      "id": "cc95709a-13ec-4fd3-9bf8-49ace18a0f39",
+      "name": "Kiran Prasad",
+      "email": "kiran@gmail.com"
+    },
+    {
+      "id": "b720876c-d1ff-4c42-b047-bb5e2f83d17d",
+      "name": "Rahul Dev",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": "aa781190-4294-4a6d-a3e9-727093751954",
+      "name": "Sampath Kumar",
+      "email": "sampath@gmail.com"
+    },
+    {
+      "id": "7209d962-3c8d-4cc3-b5b5-6491676b9701",
+      "name": "Kishor Sinha",
+      "email": "kishor@gmail.com"
+    },
+    {
+      "id": "ee1d00dc-a87d-4aaf-b5fc-911a3dff447d",
+      "name": "Sai Krishna",
+      "email": "krishna@outlook.com"
+    }
+  ]
+}
